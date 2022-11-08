@@ -1,4 +1,4 @@
-baseURL = 'http://glimpses-of-chaotic-thought.com'
+baseURL = 'https://harish1996.github.io/blog'
 languageCode = 'en-us'
 title = 'Glimpses of chaotic thought'
 theme = "ananke"
