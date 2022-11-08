@@ -1,0 +1,4 @@
+baseURL = 'http://glimpses-of-chaotic-thought.com'
+languageCode = 'en-us'
+title = 'Glimpses of chaotic thought'
+theme = "ananke"
